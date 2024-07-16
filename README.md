@@ -11,19 +11,19 @@ Answer:
 
 Used the LogisticRegression algorithm from scikit-learn.
 
-Results:
+# Results:
 
 Logistic Regression Model: Accuracy: 99%
 
-Precision:
+# Precision:
 
 For label 0 (healthy loan): 1.00 For label 1 (high-risk loan): 0.85
 
-Recall:
+# Recall:
 
 For label 0 (healthy loan): 0.99 For label 1 (high-risk loan): 0.91
 
-Summary:
+# Summary:
 
 The logistic regression model performed exceptionally well in predicting both healthy and high-risk loans. It achieved high accuracy, with precision and recall scores indicating strong predictive capability for identifying both classes.
 
