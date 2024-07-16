@@ -1,7 +1,7 @@
 # credit-risk-classification
 Module 20 Challenge
 
-Please find the credit_risk_classification inside the Credit_Risk folder - code has been written here.
+Please find the credit_risk_classification inside the Credit_Risk folder - code has been written there.
 
 I have also included my Analysis Report in this README. 
 
